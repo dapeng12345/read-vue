@@ -18,6 +18,12 @@ module.exports = {
 		'indent': 0,
 		'no-trailing-spaces': 0,
 		'no-tabs': 0,
+		'eol-last': 0,
+		'space-before-function-paren': 0,
+		'spakey-spacing': 0,
+		'comma-spacing': 0,
+		'key-spacing': 0,
+		'comma-spacing': 0,
 		'semi': 0
 	}
 }

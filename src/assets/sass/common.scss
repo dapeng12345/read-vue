@@ -1,0 +1,29 @@
+@import "reset.scss";
+
+html,body{
+  width: 100%;
+  min-width: 900px !important;
+  margin: 0 auto;
+  padding: 0;
+}
+html,body,
+#app{
+  height: 100%;
+}
+.cf {
+  zoom: 1;
+}
+.fl{
+  float: left;
+}
+.fr {
+  float: right;
+}
+a {
+  text-decoration: none;
+  color: #262626;
+  outline: 0;
+}
+.hidden {
+  display: none;
+}
