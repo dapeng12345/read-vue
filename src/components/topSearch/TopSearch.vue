@@ -15,7 +15,7 @@
    </el-col>
    <el-col :span="8">
     <div class="book-shelf fr">
-     <a href="#" target="_blank" data-eid="qd_A14" id="numero2">
+     <a href="#" data-eid="qd_A14" id="numero2">
       <em class="el-icon-collection-tag"></em>
       <span>我的书架</span>
      </a>
