@@ -72,7 +72,7 @@ export default {};
  width: 1200px;
  margin: 0 auto;
  .book-shelf {
-   margin-right:30px ;
+ 
   overflow: hidden;
   width: 120px;
   height: 40px;

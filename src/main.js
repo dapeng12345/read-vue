@@ -7,6 +7,7 @@ import store from './store'
 import axios from 'axios'
 import VueAxios from 'vue-axios'
 import './assets/sass/common.scss'
+import './assets/fontAweSome/font-awesome.min.css'
 
 // 配置请求的根路径
 // axios.defaults.baseURL = ""
