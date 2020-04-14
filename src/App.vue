@@ -15,12 +15,13 @@
    <el-main style="
     width: 1200px;
     margin: 0 auto;
-    padding: 0px;
+    padding: 0px;overflow: hidden;
    ">
     <el-row>
-     <el-col :span="16">
+     <router-view/>
+     <!-- <el-col :span="16">
       <book-list style="padding:10px"></book-list>
-     </el-col>
+     </el-col> -->
     </el-row>
    </el-main>
   </el-container>
