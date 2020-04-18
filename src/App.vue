@@ -44,7 +44,8 @@ export default {
 </script>
 <style lang="scss" scope>
 #app {
- background: red;
+    margin-bottom: 50px;
+//  background: red;
  .el-header {
   padding: 0 0px;
  }

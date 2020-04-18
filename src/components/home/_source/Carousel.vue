@@ -1,6 +1,6 @@
 <template>
  <div class="carousel">
-  <el-carousel trigger="click" interval="6000" height="250px">
+  <el-carousel trigger="click" :interval="6000" height="250px">
    <el-carousel-item v-for="item in carouselObj" :key="item.name">
     <img :src="item.pic" alt="">
    </el-carousel-item>
